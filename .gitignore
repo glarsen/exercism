@@ -167,3 +167,8 @@ $RECYCLE.BIN/
 
 .exercism/
 .idea/
+
+.gradle/
+gradle/
+
+build/
