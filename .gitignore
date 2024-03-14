@@ -172,3 +172,6 @@ $RECYCLE.BIN/
 gradle/
 
 build/
+
+# Java Builds (like MARS)
+*.jar
