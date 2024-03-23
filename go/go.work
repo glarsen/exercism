@@ -19,6 +19,7 @@ use (
 	proverb
 	resistor-color
 	resistor-color-duo
+	robot-name
 	run-length-encoding
 	sieve
 	simple-linked-list
