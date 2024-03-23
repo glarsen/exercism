@@ -1,0 +1,29 @@
+go 1.21
+
+use (
+	acronym
+	airport-robot
+	bank-account
+	bob
+	collatz-conjecture
+	complex-numbers
+	custom-set
+	darts
+	dnd-character
+	flatten-array
+	gigasecond
+	list-ops
+	meteorology
+	parsing-log-files
+	prime-factors
+	proverb
+	resistor-color
+	resistor-color-duo
+	run-length-encoding
+	sieve
+	simple-linked-list
+	sublist
+	sum-of-multiples
+	twelve-days
+	wordy
+)
