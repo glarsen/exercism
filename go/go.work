@@ -12,6 +12,7 @@ use (
 	dnd-character
 	flatten-array
 	gigasecond
+	linked-list
 	list-ops
 	meteorology
 	parsing-log-files
