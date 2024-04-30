@@ -5,6 +5,7 @@ use (
 	airport-robot
 	bank-account
 	bob
+	circular-buffer
 	collatz-conjecture
 	complex-numbers
 	custom-set
