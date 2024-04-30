@@ -18,10 +18,12 @@ use (
 	parsing-log-files
 	prime-factors
 	proverb
+	react
 	resistor-color
 	resistor-color-duo
 	robot-name
 	run-length-encoding
+	series
 	sieve
 	simple-linked-list
 	sublist
