@@ -23,6 +23,7 @@ use (
 	resistor-color
 	resistor-color-duo
 	robot-name
+	roman-numerals
 	run-length-encoding
 	series
 	sieve
