@@ -1,0 +1,31 @@
+[workspace]
+members = [
+    "armstrong-numbers",
+    "beer-song",
+    "bob",
+    "circular-buffer",
+    "collatz-conjecture",
+    "difference-of-squares",
+    "diffie-hellman",
+    "eliuds-eggs",
+    "gigasecond",
+    "grains",
+    "hello-world",
+    "high-scores",
+    "kindergarten-garden",
+    "leap",
+    "luhn",
+    "matching-brackets",
+    "nth-prime",
+    "prime-factors",
+    "proverb",
+    "raindrops",
+    "reverse-string",
+    "series",
+    "sum-of-multiples"
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+publish = false
