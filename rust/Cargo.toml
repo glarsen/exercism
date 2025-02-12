@@ -21,6 +21,7 @@ members = [
     "proverb",
     "raindrops",
     "reverse-string",
+    "rna-transcription",
     "series",
     "sum-of-multiples"
 ]
