@@ -18,6 +18,7 @@ members = [
     "luhn",
     "matching-brackets",
     "nth-prime",
+    "nucleotide-count",
     "prime-factors",
     "proverb",
     "raindrops",
