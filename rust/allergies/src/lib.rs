@@ -1,5 +1,4 @@
 use crate::Allergen::{Cats, Chocolate, Eggs, Peanuts, Pollen, Shellfish, Strawberries, Tomatoes};
-use std::collections::HashMap;
 
 pub struct Allergies {
     score: u32,
@@ -17,7 +16,7 @@ pub enum Allergen {
     Cats = 128,
 }
 
-static ALLERGENS: &'static [Allergen] = &[
+static ALLERGENS: &[Allergen] = &[
     Eggs,
     Peanuts,
     Shellfish,
