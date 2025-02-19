@@ -25,6 +25,7 @@ members = [
     "reverse-string",
     "rna-transcription",
     "series",
+    "space-age",
     "sum-of-multiples"
 ]
 resolver = "2"
