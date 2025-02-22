@@ -3,6 +3,7 @@ members = [
     "allergies",
     "armstrong-numbers",
     "beer-song",
+    "bottle-song",
     "bob",
     "circular-buffer",
     "collatz-conjecture",
