@@ -1,4 +1,4 @@
-go 1.21
+go 1.25
 
 use (
 	acronym
@@ -22,6 +22,7 @@ use (
 	react
 	resistor-color
 	resistor-color-duo
+	resistor-color-trio
 	robot-name
 	roman-numerals
 	run-length-encoding
